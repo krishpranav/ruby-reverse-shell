@@ -1,4 +1,3 @@
 # ruby-reverse-shell
 
-# A simple ruby tool as reverse shell
-
+# A simple ruby reverse shell 
